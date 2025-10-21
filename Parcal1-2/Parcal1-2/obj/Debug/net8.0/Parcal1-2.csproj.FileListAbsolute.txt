@@ -1,0 +1,15 @@
+C:\Users\georg\source\repos\ds4\Parcal1-2\Parcal1-2\bin\Debug\net8.0\Parcal1-2.exe
+C:\Users\georg\source\repos\ds4\Parcal1-2\Parcal1-2\bin\Debug\net8.0\Parcal1-2.deps.json
+C:\Users\georg\source\repos\ds4\Parcal1-2\Parcal1-2\bin\Debug\net8.0\Parcal1-2.runtimeconfig.json
+C:\Users\georg\source\repos\ds4\Parcal1-2\Parcal1-2\bin\Debug\net8.0\Parcal1-2.dll
+C:\Users\georg\source\repos\ds4\Parcal1-2\Parcal1-2\bin\Debug\net8.0\Parcal1-2.pdb
+C:\Users\georg\source\repos\ds4\Parcal1-2\Parcal1-2\obj\Debug\net8.0\Parcal1-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\georg\source\repos\ds4\Parcal1-2\Parcal1-2\obj\Debug\net8.0\Parcal1-2.AssemblyInfoInputs.cache
+C:\Users\georg\source\repos\ds4\Parcal1-2\Parcal1-2\obj\Debug\net8.0\Parcal1-2.AssemblyInfo.cs
+C:\Users\georg\source\repos\ds4\Parcal1-2\Parcal1-2\obj\Debug\net8.0\Parcal1-2.csproj.CoreCompileInputs.cache
+C:\Users\georg\source\repos\ds4\Parcal1-2\Parcal1-2\obj\Debug\net8.0\Parcal1-2.sourcelink.json
+C:\Users\georg\source\repos\ds4\Parcal1-2\Parcal1-2\obj\Debug\net8.0\Parcal1-2.dll
+C:\Users\georg\source\repos\ds4\Parcal1-2\Parcal1-2\obj\Debug\net8.0\refint\Parcal1-2.dll
+C:\Users\georg\source\repos\ds4\Parcal1-2\Parcal1-2\obj\Debug\net8.0\Parcal1-2.pdb
+C:\Users\georg\source\repos\ds4\Parcal1-2\Parcal1-2\obj\Debug\net8.0\Parcal1-2.genruntimeconfig.cache
+C:\Users\georg\source\repos\ds4\Parcal1-2\Parcal1-2\obj\Debug\net8.0\ref\Parcal1-2.dll
