@@ -1,0 +1,5 @@
+C:\Users\georg\source\repos\ds4\Laboratorio12\Laboratorio12\obj\Debug\Laboratorio12.csproj.AssemblyReference.cache
+C:\Users\georg\source\repos\ds4\Laboratorio12\Laboratorio12\obj\Debug\Laboratorio12.Form1.resources
+C:\Users\georg\source\repos\ds4\Laboratorio12\Laboratorio12\obj\Debug\Laboratorio12.Properties.Resources.resources
+C:\Users\georg\source\repos\ds4\Laboratorio12\Laboratorio12\obj\Debug\Laboratorio12.csproj.GenerateResource.cache
+C:\Users\georg\source\repos\ds4\Laboratorio12\Laboratorio12\obj\Debug\Laboratorio12.csproj.CoreCompileInputs.cache
