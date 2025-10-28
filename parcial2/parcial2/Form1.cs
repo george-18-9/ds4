@@ -1,13 +1,18 @@
 ﻿using System;
 using System.Windows.Forms;
+using MySql.Data.MySqlClient;
 
 namespace parcial2
 {
     public partial class Form1 : Form
     {
+        // Cadena de conexión
+        string connectionString = "server=localhost;database=ConversorDB;uid=root;pwd=G30rg365180706;";
+
         public Form1()
         {
             InitializeComponent();
+            CargarHistorial();
         }
 
         private void btnConvertir_Click(object sender, EventArgs e)
@@ -43,11 +48,14 @@ namespace parcial2
                     return;
                 }
 
-                // Mostrar resultado
+                // Mostrar resultado en pantalla
                 lblResultado.Text = "Resultado: " + conversion;
 
-                // Agregar al historial
+                // Agregar al ListBox local
                 lstHistorial.Items.Add(conversion);
+
+                // Guardar en la base de datos MySQL
+                GuardarEnBaseDatos(valor, resultado, conversion);
             }
             catch (FormatException)
             {
@@ -55,7 +63,66 @@ namespace parcial2
             }
             catch (Exception ex)
             {
-                MessageBox.Show("Ocurrió un error: " + ex.Message, "Error inesperado", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                MessageBox.Show("Ocurrió un error inesperado: " + ex.Message, "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
+        }
+
+
+
+        private void GuardarEnBaseDatos(double valorOriginal, double resultado, string conversion)
+        {
+            try
+            {
+                using (MySqlConnection conn = new MySqlConnection(connectionString))
+                {
+                    conn.Open();
+
+                    string query = "INSERT INTO HistorialConversion (ValorOriginal, Conversion, TipoConversion, Resultado) " +
+                                   "VALUES (@valorOriginal, @conversion, @tipo, @resultado)";
+
+                    using (MySqlCommand cmd = new MySqlCommand(query, conn))
+                    {
+                        cmd.Parameters.AddWithValue("@valorOriginal", valorOriginal);
+                        cmd.Parameters.AddWithValue("@conversion", conversion);
+                        cmd.Parameters.AddWithValue("@tipo", rdbMetrosAYardas.Checked ? "Metros a Yardas" : "Yardas a Metros");
+                        cmd.Parameters.AddWithValue("@resultado", resultado);
+
+                        cmd.ExecuteNonQuery();
+                    }
+                }
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show("Error al guardar en la base de datos: " + ex.Message, "Error DB", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
+        }
+
+        private void CargarHistorial()
+        {
+            lstHistorial.Items.Clear();
+
+            try
+            {
+                using (MySqlConnection conn = new MySqlConnection(connectionString))
+                {
+                    conn.Open();
+
+                    string query = "SELECT Conversion FROM HistorialConversion ORDER BY FechaHora";
+                    using (MySqlCommand cmd = new MySqlCommand(query, conn))
+                    {
+                        using (MySqlDataReader reader = cmd.ExecuteReader())
+                        {
+                            while (reader.Read())
+                            {
+                                lstHistorial.Items.Add(reader["Conversion"].ToString());
+                            }
+                        }
+                    }
+                }
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show("Error al cargar historial: " + ex.Message, "Error DB", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
         }
 
