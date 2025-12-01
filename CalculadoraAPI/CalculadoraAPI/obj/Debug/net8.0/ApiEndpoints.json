@@ -1,0 +1,84 @@
+[
+  {
+    "ContainingType": "CalculadoraAPI.Controllers.CalculoController",
+    "Method": "GetAll",
+    "RelativePath": "api/Calculo",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CalculadoraAPI.Controllers.CalculoController",
+    "Method": "Insert",
+    "RelativePath": "api/Calculo",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "calc",
+        "Type": "CalculadoraAPI.Models.Calculo",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CalculadoraAPI.Controllers.CalculoController",
+    "Method": "GetDivisiones",
+    "RelativePath": "api/Calculo/divisiones",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CalculadoraAPI.Controllers.CalculoController",
+    "Method": "GetPorFecha",
+    "RelativePath": "api/Calculo/fecha/{fecha}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "fecha",
+        "Type": "System.DateTime",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CalculadoraAPI.Controllers.CalculoController",
+    "Method": "GetMultiplicaciones",
+    "RelativePath": "api/Calculo/multiplicaciones",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CalculadoraAPI.Controllers.CalculoController",
+    "Method": "GetRestas",
+    "RelativePath": "api/Calculo/restas",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CalculadoraAPI.Controllers.CalculoController",
+    "Method": "GetSumas",
+    "RelativePath": "api/Calculo/sumas",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
