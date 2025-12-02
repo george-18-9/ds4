@@ -1,0 +1,327 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\georg\\source\\repos\\ds4\\BufeteGW\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CDB8D565-0FE4-46ED-8940-2A8D320CF58A}|BufeteGW\\BufeteGW.csproj|c:\\users\\georg\\source\\repos\\ds4\\bufetegw\\bufetegw\\pages\\clientes\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDB8D565-0FE4-46ED-8940-2A8D320CF58A}|BufeteGW\\BufeteGW.csproj|solutionrelative:bufetegw\\pages\\clientes\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDB8D565-0FE4-46ED-8940-2A8D320CF58A}|BufeteGW\\BufeteGW.csproj|c:\\users\\georg\\source\\repos\\ds4\\bufetegw\\bufetegw\\pages\\clientes\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDB8D565-0FE4-46ED-8940-2A8D320CF58A}|BufeteGW\\BufeteGW.csproj|solutionrelative:bufetegw\\pages\\clientes\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDB8D565-0FE4-46ED-8940-2A8D320CF58A}|BufeteGW\\BufeteGW.csproj|c:\\users\\georg\\source\\repos\\ds4\\bufetegw\\bufetegw\\pages\\clientes\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDB8D565-0FE4-46ED-8940-2A8D320CF58A}|BufeteGW\\BufeteGW.csproj|solutionrelative:bufetegw\\pages\\clientes\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDB8D565-0FE4-46ED-8940-2A8D320CF58A}|BufeteGW\\BufeteGW.csproj|c:\\users\\georg\\source\\repos\\ds4\\bufetegw\\bufetegw\\pages\\clientes\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDB8D565-0FE4-46ED-8940-2A8D320CF58A}|BufeteGW\\BufeteGW.csproj|solutionrelative:bufetegw\\pages\\clientes\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDB8D565-0FE4-46ED-8940-2A8D320CF58A}|BufeteGW\\BufeteGW.csproj|c:\\users\\georg\\source\\repos\\ds4\\bufetegw\\bufetegw\\pages\\abogados\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDB8D565-0FE4-46ED-8940-2A8D320CF58A}|BufeteGW\\BufeteGW.csproj|solutionrelative:bufetegw\\pages\\abogados\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDB8D565-0FE4-46ED-8940-2A8D320CF58A}|BufeteGW\\BufeteGW.csproj|c:\\users\\georg\\source\\repos\\ds4\\bufetegw\\bufetegw\\pages\\abogados\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CDB8D565-0FE4-46ED-8940-2A8D320CF58A}|BufeteGW\\BufeteGW.csproj|solutionrelative:bufetegw\\pages\\abogados\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDB8D565-0FE4-46ED-8940-2A8D320CF58A}|BufeteGW\\BufeteGW.csproj|c:\\users\\georg\\source\\repos\\ds4\\bufetegw\\bufetegw\\pages\\casos\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDB8D565-0FE4-46ED-8940-2A8D320CF58A}|BufeteGW\\BufeteGW.csproj|solutionrelative:bufetegw\\pages\\casos\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDB8D565-0FE4-46ED-8940-2A8D320CF58A}|BufeteGW\\BufeteGW.csproj|c:\\users\\georg\\source\\repos\\ds4\\bufetegw\\bufetegw\\pages\\casos\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CDB8D565-0FE4-46ED-8940-2A8D320CF58A}|BufeteGW\\BufeteGW.csproj|solutionrelative:bufetegw\\pages\\casos\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDB8D565-0FE4-46ED-8940-2A8D320CF58A}|BufeteGW\\BufeteGW.csproj|c:\\users\\georg\\source\\repos\\ds4\\bufetegw\\bufetegw\\pages\\casos\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDB8D565-0FE4-46ED-8940-2A8D320CF58A}|BufeteGW\\BufeteGW.csproj|solutionrelative:bufetegw\\pages\\casos\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDB8D565-0FE4-46ED-8940-2A8D320CF58A}|BufeteGW\\BufeteGW.csproj|c:\\users\\georg\\source\\repos\\ds4\\bufetegw\\bufetegw\\pages\\casos\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CDB8D565-0FE4-46ED-8940-2A8D320CF58A}|BufeteGW\\BufeteGW.csproj|solutionrelative:bufetegw\\pages\\casos\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDB8D565-0FE4-46ED-8940-2A8D320CF58A}|BufeteGW\\BufeteGW.csproj|c:\\users\\georg\\source\\repos\\ds4\\bufetegw\\bufetegw\\pages\\casos\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDB8D565-0FE4-46ED-8940-2A8D320CF58A}|BufeteGW\\BufeteGW.csproj|solutionrelative:bufetegw\\pages\\casos\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDB8D565-0FE4-46ED-8940-2A8D320CF58A}|BufeteGW\\BufeteGW.csproj|c:\\users\\georg\\source\\repos\\ds4\\bufetegw\\bufetegw\\pages\\casos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CDB8D565-0FE4-46ED-8940-2A8D320CF58A}|BufeteGW\\BufeteGW.csproj|solutionrelative:bufetegw\\pages\\casos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDB8D565-0FE4-46ED-8940-2A8D320CF58A}|BufeteGW\\BufeteGW.csproj|c:\\users\\georg\\source\\repos\\ds4\\bufetegw\\bufetegw\\pages\\casos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CDB8D565-0FE4-46ED-8940-2A8D320CF58A}|BufeteGW\\BufeteGW.csproj|solutionrelative:bufetegw\\pages\\casos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDB8D565-0FE4-46ED-8940-2A8D320CF58A}|BufeteGW\\BufeteGW.csproj|c:\\users\\georg\\source\\repos\\ds4\\bufetegw\\bufetegw\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDB8D565-0FE4-46ED-8940-2A8D320CF58A}|BufeteGW\\BufeteGW.csproj|solutionrelative:bufetegw\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDB8D565-0FE4-46ED-8940-2A8D320CF58A}|BufeteGW\\BufeteGW.csproj|c:\\users\\georg\\source\\repos\\ds4\\bufetegw\\bufetegw\\data\\bufetegwcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDB8D565-0FE4-46ED-8940-2A8D320CF58A}|BufeteGW\\BufeteGW.csproj|solutionrelative:bufetegw\\data\\bufetegwcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDB8D565-0FE4-46ED-8940-2A8D320CF58A}|BufeteGW\\BufeteGW.csproj|c:\\users\\georg\\source\\repos\\ds4\\bufetegw\\bufetegw\\models\\gw_caso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDB8D565-0FE4-46ED-8940-2A8D320CF58A}|BufeteGW\\BufeteGW.csproj|solutionrelative:bufetegw\\models\\gw_caso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDB8D565-0FE4-46ED-8940-2A8D320CF58A}|BufeteGW\\BufeteGW.csproj|c:\\users\\georg\\source\\repos\\ds4\\bufetegw\\bufetegw\\bufetegw.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CDB8D565-0FE4-46ED-8940-2A8D320CF58A}|BufeteGW\\BufeteGW.csproj|solutionrelative:bufetegw\\bufetegw.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\source\\repos\\ds4\\BufeteGW\\BufeteGW\\Pages\\Clientes\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "BufeteGW\\Pages\\Clientes\\Edit.cshtml.cs",
+              "ToolTip": "C:\\Users\\georg\\source\\repos\\ds4\\BufeteGW\\BufeteGW\\Pages\\Clientes\\Edit.cshtml.cs",
+              "RelativeToolTip": "BufeteGW\\Pages\\Clientes\\Edit.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T02:53:09.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Details.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\source\\repos\\ds4\\BufeteGW\\BufeteGW\\Pages\\Clientes\\Details.cshtml.cs",
+              "RelativeDocumentMoniker": "BufeteGW\\Pages\\Clientes\\Details.cshtml.cs",
+              "ToolTip": "C:\\Users\\georg\\source\\repos\\ds4\\BufeteGW\\BufeteGW\\Pages\\Clientes\\Details.cshtml.cs",
+              "RelativeToolTip": "BufeteGW\\Pages\\Clientes\\Details.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T02:53:07.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\source\\repos\\ds4\\BufeteGW\\BufeteGW\\Pages\\Clientes\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "BufeteGW\\Pages\\Clientes\\Create.cshtml.cs",
+              "ToolTip": "C:\\Users\\georg\\source\\repos\\ds4\\BufeteGW\\BufeteGW\\Pages\\Clientes\\Create.cshtml.cs",
+              "RelativeToolTip": "BufeteGW\\Pages\\Clientes\\Create.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T02:53:03.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\source\\repos\\ds4\\BufeteGW\\BufeteGW\\Pages\\Clientes\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "BufeteGW\\Pages\\Clientes\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\georg\\source\\repos\\ds4\\BufeteGW\\BufeteGW\\Pages\\Clientes\\Index.cshtml.cs",
+              "RelativeToolTip": "BufeteGW\\Pages\\Clientes\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T02:53:00.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\source\\repos\\ds4\\BufeteGW\\BufeteGW\\Pages\\Abogados\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "BufeteGW\\Pages\\Abogados\\Delete.cshtml.cs",
+              "ToolTip": "C:\\Users\\georg\\source\\repos\\ds4\\BufeteGW\\BufeteGW\\Pages\\Abogados\\Delete.cshtml.cs",
+              "RelativeToolTip": "BufeteGW\\Pages\\Abogados\\Delete.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T02:52:55.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\georg\\source\\repos\\ds4\\BufeteGW\\BufeteGW\\Pages\\Abogados\\Delete.cshtml",
+              "RelativeDocumentMoniker": "BufeteGW\\Pages\\Abogados\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\georg\\source\\repos\\ds4\\BufeteGW\\BufeteGW\\Pages\\Abogados\\Delete.cshtml",
+              "RelativeToolTip": "BufeteGW\\Pages\\Abogados\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-02T02:52:51.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\source\\repos\\ds4\\BufeteGW\\BufeteGW\\Pages\\Casos\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "BufeteGW\\Pages\\Casos\\Edit.cshtml.cs",
+              "ToolTip": "C:\\Users\\georg\\source\\repos\\ds4\\BufeteGW\\BufeteGW\\Pages\\Casos\\Edit.cshtml.cs",
+              "RelativeToolTip": "BufeteGW\\Pages\\Casos\\Edit.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T02:51:33.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\georg\\source\\repos\\ds4\\BufeteGW\\BufeteGW\\Pages\\Casos\\Edit.cshtml",
+              "RelativeDocumentMoniker": "BufeteGW\\Pages\\Casos\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\georg\\source\\repos\\ds4\\BufeteGW\\BufeteGW\\Pages\\Casos\\Edit.cshtml",
+              "RelativeToolTip": "BufeteGW\\Pages\\Casos\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-02T02:51:27.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Details.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\source\\repos\\ds4\\BufeteGW\\BufeteGW\\Pages\\Casos\\Details.cshtml.cs",
+              "RelativeDocumentMoniker": "BufeteGW\\Pages\\Casos\\Details.cshtml.cs",
+              "ToolTip": "C:\\Users\\georg\\source\\repos\\ds4\\BufeteGW\\BufeteGW\\Pages\\Casos\\Details.cshtml.cs",
+              "RelativeToolTip": "BufeteGW\\Pages\\Casos\\Details.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T02:51:24.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\georg\\source\\repos\\ds4\\BufeteGW\\BufeteGW\\Pages\\Casos\\Details.cshtml",
+              "RelativeDocumentMoniker": "BufeteGW\\Pages\\Casos\\Details.cshtml",
+              "ToolTip": "C:\\Users\\georg\\source\\repos\\ds4\\BufeteGW\\BufeteGW\\Pages\\Casos\\Details.cshtml",
+              "RelativeToolTip": "BufeteGW\\Pages\\Casos\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-02T02:51:16.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\source\\repos\\ds4\\BufeteGW\\BufeteGW\\Pages\\Casos\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "BufeteGW\\Pages\\Casos\\Create.cshtml.cs",
+              "ToolTip": "C:\\Users\\georg\\source\\repos\\ds4\\BufeteGW\\BufeteGW\\Pages\\Casos\\Create.cshtml.cs",
+              "RelativeToolTip": "BufeteGW\\Pages\\Casos\\Create.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T02:51:11.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\georg\\source\\repos\\ds4\\BufeteGW\\BufeteGW\\Pages\\Casos\\Create.cshtml",
+              "RelativeDocumentMoniker": "BufeteGW\\Pages\\Casos\\Create.cshtml",
+              "ToolTip": "C:\\Users\\georg\\source\\repos\\ds4\\BufeteGW\\BufeteGW\\Pages\\Casos\\Create.cshtml",
+              "RelativeToolTip": "BufeteGW\\Pages\\Casos\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-02T02:51:04.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\georg\\source\\repos\\ds4\\BufeteGW\\BufeteGW\\Pages\\Casos\\Index.cshtml",
+              "RelativeDocumentMoniker": "BufeteGW\\Pages\\Casos\\Index.cshtml",
+              "ToolTip": "C:\\Users\\georg\\source\\repos\\ds4\\BufeteGW\\BufeteGW\\Pages\\Casos\\Index.cshtml",
+              "RelativeToolTip": "BufeteGW\\Pages\\Casos\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-02T02:50:57.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\source\\repos\\ds4\\BufeteGW\\BufeteGW\\Program.cs",
+              "RelativeDocumentMoniker": "BufeteGW\\Program.cs",
+              "ToolTip": "C:\\Users\\georg\\source\\repos\\ds4\\BufeteGW\\BufeteGW\\Program.cs",
+              "RelativeToolTip": "BufeteGW\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T02:50:46.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BufeteGWContext.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\source\\repos\\ds4\\BufeteGW\\BufeteGW\\Data\\BufeteGWContext.cs",
+              "RelativeDocumentMoniker": "BufeteGW\\Data\\BufeteGWContext.cs",
+              "ToolTip": "C:\\Users\\georg\\source\\repos\\ds4\\BufeteGW\\BufeteGW\\Data\\BufeteGWContext.cs",
+              "RelativeToolTip": "BufeteGW\\Data\\BufeteGWContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T02:50:24.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "GW_Caso.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\source\\repos\\ds4\\BufeteGW\\BufeteGW\\Models\\GW_Caso.cs",
+              "RelativeDocumentMoniker": "BufeteGW\\Models\\GW_Caso.cs",
+              "ToolTip": "C:\\Users\\georg\\source\\repos\\ds4\\BufeteGW\\BufeteGW\\Models\\GW_Caso.cs",
+              "RelativeToolTip": "BufeteGW\\Models\\GW_Caso.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAlwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T02:50:11.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BufeteGW",
+              "DocumentMoniker": "C:\\Users\\georg\\source\\repos\\ds4\\BufeteGW\\BufeteGW\\BufeteGW.csproj",
+              "RelativeDocumentMoniker": "BufeteGW\\BufeteGW.csproj",
+              "ToolTip": "C:\\Users\\georg\\source\\repos\\ds4\\BufeteGW\\BufeteGW\\BufeteGW.csproj",
+              "RelativeToolTip": "BufeteGW\\BufeteGW.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-02T02:46:42.424Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 348,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{131369f2-062d-44a2-8671-91ff31efb4f4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
