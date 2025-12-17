@@ -16,7 +16,12 @@
             <td>@r.UsuarioId</td>
             <td>@r.CanchaId</td>
             <td>@r.Fecha.ToShortDateString()</td>
-            <td>@r.HoraInicio - @r.HoraFin</td>
+            <td>
+                @(DateTime.Today.Add(r.HoraInicio).ToString("hh:mm tt"))
+                -
+                @(DateTime.Today.Add(r.HoraFin).ToString("hh:mm tt"))
+            </td>
+
         </tr>
     }
 </table>

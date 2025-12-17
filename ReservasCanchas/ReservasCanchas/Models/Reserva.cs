@@ -10,8 +10,8 @@ namespace ReservasCanchas.Models
         public DateTime Fecha { get; set; }
 
         // Hora de entrada y salida
-        public string HoraInicio { get; set; } = "";
-        public string HoraFin { get; set; } = "";
+        public TimeSpan HoraInicio { get; set; } 
+        public TimeSpan HoraFin { get; set; } 
     }
 }
 

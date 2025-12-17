@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ReservasCanchas")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8e2a36c2588998dc0970af7f0eec423c4f8bdeec")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+feaf38de1e69a7c9e00bf4f826a5658c5d2d1589")]
 [assembly: System.Reflection.AssemblyProductAttribute("ReservasCanchas")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ReservasCanchas")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
