@@ -1,0 +1,32 @@
+﻿@model ReservasCanchas.Models.Reserva
+
+<div class="card shadow col-md-6 mx-auto">
+    <div class="card-header bg-success text-white">
+        <h4>Reservar Cancha</h4>
+    </div>
+
+    <div class="card-body">
+        <form asp-action="Crear" method="post">
+            <input type="hidden" asp-for="CanchaId" />
+
+            <div class="mb-3">
+                <label class="form-label">Fecha</label>
+                <input asp-for="Fecha" type="date" class="form-control" required />
+            </div>
+
+            <div class="mb-3">
+                <label class="form-label">Hora de Entrada</label>
+                <input asp-for="HoraInicio" type="time" class="form-control" required />
+            </div>
+
+            <div class="mb-3">
+                <label class="form-label">Hora de Salida</label>
+                <input asp-for="HoraFin" type="time" class="form-control" required />
+            </div>
+
+            <button type="submit" class="btn btn-success w-100">
+                Guardar Reserva
+            </button>
+        </form>
+    </div>
+</div>

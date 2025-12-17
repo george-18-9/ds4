@@ -1,0 +1,60 @@
+﻿@model List<ReservasCanchas.Models.Reserva>
+
+@{
+    ViewData["Title"] = "Mis Reservas";
+}
+
+<div class="card shadow">
+    <div class="card-header bg-secondary text-white">
+        <h4 class="mb-0">Mis Reservas</h4>
+    </div>
+
+    <div class="card-body">
+
+        @if (!Model.Any())
+        {
+            <div class="alert alert-info text-center">
+                No tienes reservas registradas.
+            </div>
+        }
+        else
+        {
+            <table class="table table-striped table-hover">
+                <thead class="table-dark">
+                    <tr>
+                        <th>Cancha</th>
+                        <th>Fecha</th>
+                        <th>Horario</th>
+                        <th>Acciones</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var r in Model)
+                    {
+                        <tr>
+                            <td>@r.CanchaId</td>
+                            <td>@r.Fecha.ToShortDateString()</td>
+                            <td>@r.HoraInicio - @r.HoraFin</td>
+                            <td>
+                                <form asp-action="Cancelar"
+                                      asp-controller="Reservas"
+                                      method="post"
+                                      style="display:inline;">
+
+                                    @Html.AntiForgeryToken()
+                                    <input type="hidden" name="id" value="@r.Id" />
+
+                                    <button type="submit"
+                                            class="btn btn-danger btn-sm"
+                                            onclick="return confirm('¿Seguro que deseas cancelar esta reserva?');">
+                                        Cancelar
+                                    </button>
+                                </form>
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        }
+    </div>
+</div>

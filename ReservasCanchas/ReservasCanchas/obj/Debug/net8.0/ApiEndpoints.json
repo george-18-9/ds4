@@ -1,0 +1,23 @@
+[
+  {
+    "ContainingType": "ReservasCanchas.Controllers.DisponibilidadApiController",
+    "Method": "GetDisponibilidad",
+    "RelativePath": "api/DisponibilidadApi/{canchaId}/{fecha}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "canchaId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "fecha",
+        "Type": "System.DateTime",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

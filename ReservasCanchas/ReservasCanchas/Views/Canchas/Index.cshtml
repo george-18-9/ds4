@@ -1,0 +1,67 @@
+﻿@model List<ReservasCanchas.Models.Cancha>
+
+@{
+    ViewData["Title"] = "Canchas Disponibles";
+}
+
+<div class="container mt-4">
+    <div class="card shadow-lg">
+        <div class="card-header bg-dark text-white d-flex justify-content-between align-items-center">
+            <h4 class="mb-0">🏟️ Canchas Disponibles</h4>
+        </div>
+
+        <div class="card-body">
+
+            @if (!Model.Any())
+            {
+                <div class="alert alert-warning text-center">
+                    No hay canchas registradas.
+                </div>
+            }
+            else
+            {
+                <div class="table-responsive">
+                    <table class="table table-hover align-middle text-center">
+                        <thead class="table-dark">
+                            <tr>
+                                <th>#</th>
+                                <th>Nombre</th>
+                                <th>Tipo</th>
+                                <th>Precio</th>
+                                <th>Acción</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @foreach (var cancha in Model)
+                            {
+                                <tr>
+                                    <td>@cancha.Id</td>
+                                    <td class="fw-bold">@cancha.Nombre</td>
+                                    <td>
+                                        <span class="badge bg-primary">
+                                            @cancha.Tipo
+                                        </span>
+                                    </td>
+                                    <td>
+                                        <span class="text-success fw-bold">
+                                            $@cancha.Precio.ToString("0.00") la hora
+                                        </span>
+                                    </td>
+                                    <td>
+                                        <a class="btn btn-outline-success btn-sm"
+                                           asp-controller="Reservas"
+                                           asp-action="Crear"
+                                           asp-route-canchaId="@cancha.Id">
+                                            Reservar
+                                        </a>
+                                    </td>
+                                </tr>
+                            }
+                        </tbody>
+                    </table>
+                </div>
+            }
+
+        </div>
+    </div>
+</div>

@@ -1,0 +1,22 @@
+﻿@model List<ReservasCanchas.Models.Reserva>
+
+<h2>Reservas</h2>
+
+<table border="1">
+    <tr>
+        <th>Usuario</th>
+        <th>Cancha</th>
+        <th>Fecha</th>
+        <th>Horario</th>
+    </tr>
+
+    @foreach (var r in Model)
+    {
+        <tr>
+            <td>@r.UsuarioId</td>
+            <td>@r.CanchaId</td>
+            <td>@r.Fecha.ToShortDateString()</td>
+            <td>@r.HoraInicio - @r.HoraFin</td>
+        </tr>
+    }
+</table>
